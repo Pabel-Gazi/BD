@@ -7,7 +7,7 @@
 <a href="https://github.com/Pabel-Gazi"><img title="Author" src="https://img.shields.io/badge/Author-Pabel--Gazi-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="left">
-<a href="#"><img title="All DIGIT CRACKER" src="https://img.shields.io/badge/Bangladesh   All%20DIGIT CRACKER-white?OmrAha23ff00000&colorB=%2317e40&style=for-the-badge"></a>
+<a href="#"><img title="All DIGIT CRACKER" src="https://img.shields.io/badge/Bangladesh   All%20DIGIT CRACKER-white?OmrAha23ff00000&colorB=%230617e40&style=for-the-badge"></a>
 
                   BD
       ACCOUNT CLONER FOR TERMUX USERS
